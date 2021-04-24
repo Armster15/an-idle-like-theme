@@ -1,0 +1,21 @@
+{
+    "name": "idle-like-theme-dark-armaan",
+    "displayName": "An IDLE Like Theme (Dark)",
+    "description": "A theme based on the python IDLE, the default IDE for python!",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.35.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "An IDLE Like Theme (Dark)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/An IDLE Like Theme (Dark)-color-theme.json"
+            }
+        ]
+    }
+}

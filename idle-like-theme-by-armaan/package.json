@@ -1,0 +1,21 @@
+{
+    "name": "idle-like-theme-by-armaan",
+    "displayName": "IDLE like theme",
+    "description": "A theme that makes the code look like it is in the python IDLE, the built in IDE for Python",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.35.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "An IDLE like Theme",
+                "uiTheme": "vs",
+                "path": "./themes/An IDLE like Theme-color-theme.json"
+            }
+        ]
+    }
+}
