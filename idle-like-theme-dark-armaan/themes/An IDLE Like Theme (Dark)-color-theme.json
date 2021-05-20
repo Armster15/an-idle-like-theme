@@ -233,7 +233,7 @@
 				"punctuation.definition.entity"
 			],
 			"settings": {
-				"foreground": "#AB6526"
+				"foreground": "#5dc74f" //AB6526
 			}
 		},
 		{
@@ -245,7 +245,7 @@
 				"entity.name.tag.css"
 			],
 			"settings": {
-				"foreground": "#8d66a3"
+				"foreground": "#5dc74f"
 			}
 		},
 		{
@@ -392,7 +392,7 @@
 			"scope": "markup.inline.raw",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#AB6526"
+				"foreground": "#AB6526" //AB6526
 			}
 		},
 		{
